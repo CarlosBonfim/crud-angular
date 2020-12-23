@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
+      "name": "Caneta Bic Verde",
+      "price": "6.55"
     },
     {
       "id": 2,
@@ -14,6 +14,26 @@
       "id": 3,
       "name": "Geladeira",
       "price": "1913.99"
+    },
+    {
+      "name": "Banana",
+      "price": 15.89,
+      "id": 4
+    },
+    {
+      "name": "Bode",
+      "price": "14.25",
+      "id": 5
+    },
+    {
+      "name": "Fusca",
+      "price": "5000.99",
+      "id": 6
+    },
+    {
+      "name": "Escort",
+      "price": "3000.99",
+      "id": 7
     }
   ]
 }
