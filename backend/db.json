@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Bic Verde",
-      "price": "6.55"
-    },
-    {
-      "id": 2,
-      "name": "Macbook",
-      "price": 12000.89
-    },
-    {
       "id": 3,
       "name": "Geladeira",
       "price": "1913.99"
@@ -21,19 +11,14 @@
       "id": 4
     },
     {
-      "name": "Bode",
-      "price": "14.25",
-      "id": 5
-    },
-    {
-      "name": "Fusca",
-      "price": "5000.99",
-      "id": 6
-    },
-    {
-      "name": "Escort",
-      "price": "3000.99",
+      "name": "ububu",
+      "price": "123",
       "id": 7
+    },
+    {
+      "name": "terste",
+      "price": "100",
+      "id": 8
     }
   ]
 }
